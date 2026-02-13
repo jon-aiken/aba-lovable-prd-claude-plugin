@@ -1,0 +1,24 @@
+{
+  "name": "lovable-prd-builder",
+  "description": "Build a complete Lovable.dev-ready PRD knowledge base. Generates four structured documents — Masterplan, Implementation Plan, Design Guidelines, and App Flow — optimized for Lovable's React/Vite/Tailwind/shadcn/Supabase stack. Built by Agent Builder Academy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Agent Builder Academy",
+    "email": "jonathan@original-ventures.com"
+  },
+  "homepage": "https://github.com/jon-aiken/aba-lovable-prd-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "lovable",
+    "prd",
+    "vibe-coding",
+    "product-requirements",
+    "masterplan",
+    "design-system",
+    "supabase",
+    "react",
+    "tailwind",
+    "agent-builder-academy"
+  ],
+  "category": "productivity"
+}
