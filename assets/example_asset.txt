@@ -1,0 +1,10 @@
+# Lovable PRD Builder — Asset Directory
+
+This directory can hold template files, example outputs, or other assets
+used by the skill. Currently empty — assets are generated dynamically
+based on the user's project specifics.
+
+Potential future assets:
+- Example completed PRD sets for reference
+- Tailwind config snippets
+- Supabase schema migration templates
