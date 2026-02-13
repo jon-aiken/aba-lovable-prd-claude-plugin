@@ -2,7 +2,7 @@
 
 A Claude Cowork plugin that guides you through building a complete, Lovable.dev-ready Product Requirements Document. It generates five structured documents — Masterplan, Implementation Plan, Design Guidelines, App Flow (Pages & Roles), and a condensed Knowledge Base — all optimized for Lovable's React/Vite/Tailwind/shadcn/Supabase stack.
 
-Built by [Agent Builder Academy](https://agentbuilderacademy.com).
+Built by [Agent Builder Academy](https://agentbuilder.academy )
 
 ---
 
